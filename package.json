@@ -1,0 +1,17 @@
+{
+  "name": "beauty-by-raji",
+  "version": "1.0.0",
+  "description": "Modern clone of the Beauty by Raji website designed to convert visitors to customers.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "salon",
+    "clone",
+    "beauty"
+  ],
+  "author": "Beauty By Raji",
+  "license": "ISC"
+}
